@@ -43,4 +43,8 @@ Our crystal ball is already pretty darn good, but there's always room for improv
 - **Ensemble Methods**: Why settle for one crystal ball when you can have a whole collection? Let's combine predictions from multiple models for ultimate accuracy!
 - **Deployment**: Turn our crystal ball into a real-time prediction engine by deploying it as a user-friendly interface or API!
 
+### Acknowledgement 🙏
+
+This project wouldn't have been possible without the invaluable help and inspiration from various sources including Reddit, Kaggle, and Dev.to. A big thank you to the amazing communities out there for sharing knowledge and insights! 🌟
+
 ### 🎉 Happy predicting, and may your startups soar to the stars! ✨
